@@ -1,6 +1,3 @@
-Perfect! We can rewrite the README so that **everything references Hedera** instead of Kaia, keeping all your existing functionality (Telegram bot, AI tools, x402 payments, wallet management, USDT/hUSDT transfers, Airtime top-ups, etc.). Here's a revised version:
-
----
 
 ## 📘 Project Overview: HederaDeFAI
 
@@ -224,12 +221,4 @@ View transaction: https://hashscan.io/testnet/transaction/0.0.xxxxx
   * Learning & prototyping
   * Fast DeFi + AI experiments
 
----
 
-✅ Now the README fully positions **HederaDeFAI** as Hedera-native, keeping **x402 payment integration** for `/paid-signal`.
-
----
-
-If you want, I can also **update all command examples, screenshots, and diagrams** so they fully reflect **HBAR & hUSDT**, making it more polished for the hackathon submission.
-
-Do you want me to do that next?
